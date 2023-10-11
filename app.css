@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+label {
+    font-size: 3rem;
+    font-weight: 300;
+}
+
+input[type=text] {
+    width: 50%;
+    padding: 10px 15px;
+    margin: 6px 0;
+    border: 2px solid rgb(31, 31, 31);
+}
+
+
+#add-todo {
+    color:rgb(112, 108, 108);
+    font-size: 22px;
+    font-weight: 50;
+}
+
+.todo {
+    color:rgb(47, 43, 43);
+    font-size: 30px;
+    font-weight: 15px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: grey;
+
+}
+
